@@ -65,7 +65,7 @@ A comprehensive Python-based system for managing restaurant orders with a conver
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/nmintzer-oswego/Noahs-Portfolio.git
    ```
 
 2. Install required packages:
@@ -112,7 +112,15 @@ python order-system-test.py
    Customer: My name is John Doe, phone is 123-456-7890
    System: What time would you like to pick up your order?
    ```
-
+   3. Order verification:
+   ```
+    Welcome! I'll be happy to take your order. Please provide your name, phone number, and what you'd like to order.
+    Customer: This is Alice, my number is 444-555-6666. I have a gluten allergy. Can I get the Grilled Chicken Salad without croutons? And a Lemonade please. I'll pick up at 7:15 PM.
+    Great! Let me confirm your order Alice. You've ordered: Grilled Chicken Salad (Quantity: 1) with No croutons, Lemonade (Quantity: 1). The total is $11.99 for pickup at 7:15 PM.
+    Is this correct? (yes/no): yes
+    Order saved to ../Orders\order_Alice_20241028_181311.json
+    Thank you for your order!
+   ```
 ## 🏗️ Project Structure
 
 ```
@@ -147,21 +155,14 @@ Detailed logging is implemented for:
 - Payment information is not stored
 - Access to order history is controlled
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 ## 📄 License
 
-[Add License Information]
+[Apache License 2.0]
 
 ## 👥 Authors
 
-[Add Author Information]
+[Noah Mintzer: https://www.linkedin.com/in/noah-mintzer-733404271/]
 
 ## 🙏 Acknowledgments
 
