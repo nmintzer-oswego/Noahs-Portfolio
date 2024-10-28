@@ -1,0 +1,31 @@
+# Test Orders for Restaurant Order System
+
+## Order 1: Basic Order
+My name is John Doe and I'd like to order a Margherita Pizza. My phone number is 123-456-7890. I'll pick it up at 7 PM.
+
+## Order 2: Multiple Items
+Hi, this is Jane Smith. I want to order 2 Cheeseburgers and a Lemonade. My number is 987-654-3210 and I'll pick up at 6:30 PM.
+
+## Order 3: Special Instructions
+Hello, Bob here. I'd like to order a Vegetarian Pasta, but can you make it extra spicy? Also, I'll have a Caesar Salad on the side. My number is 555-123-4567 and I need it ready by 8 PM. I'll be paying by credit card over the phone.
+
+## Order 4: Dietary Restrictions
+This is Alice, my number is 444-555-6666. I have a gluten allergy. Can I get the Grilled Chicken Salad without croutons? And a Lemonade please. I'll pick up at 7:15 PM.
+
+## Order 5: Large Order
+Hey, it's Charlie. I'm ordering for a group. We need 3 Margherita Pizzas, 2 Pepperoni Pizzas, 4 Cheeseburgers, 2 Fish and Chips, and 5 Lemonades. My number is 777-888-9999. We'll pick up at 7:45 PM. Is curbside pickup available?
+
+## Order 6: Incomplete Information
+I want a Chocolate Brownie and an Iced Tea.
+
+## Order 7: Non-Menu Items
+Hi, I'd like to order a Sushi Roll and a Milkshake. My name is David, number 333-222-1111, pickup at 6 PM.
+
+## Order 8: Mixed Valid and Invalid Items
+Hello, I'm Eve. I'd like to order a Margherita Pizza and a Unicorn Sandwich. My number is 123-321-2345. Pickup at 7:30 PM.
+
+## Order 9: Only Drinks
+This is Frank. I just want 3 Iced Teas and 2 Lemonades. My number is 999-000-1111. I'll pick up in 30 minutes.
+
+## Order 10: Special Pickup Instructions
+Hi, Grace here. I'd like a Vegetarian Pasta and a Chocolate Brownie. My number is 888-777-6666. I'll pick up at 6:45 PM. I'm in a wheelchair, so I'd appreciate if someone could bring the order to my car.

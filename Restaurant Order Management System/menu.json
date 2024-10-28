@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "price": 12.99,
+    "ingredients": [
+      "Tomato Sauce",
+      "Fresh Mozzarella",
+      "Basil",
+      "Olive Oil"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "price": 14.99,
+    "ingredients": [
+      "Tomato Sauce",
+      "Mozzarella",
+      "Pepperoni"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Vegetarian Pasta",
+    "price": 13.5,
+    "ingredients": [
+      "Penne Pasta",
+      "Mixed Vegetables",
+      "Tomato Sauce",
+      "Parmesan"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Grilled Chicken Salad",
+    "price": 11.99,
+    "ingredients": [
+      "Grilled Chicken",
+      "Mixed Greens",
+      "Tomatoes",
+      "Cucumbers",
+      "Balsamic Dressing"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Cheeseburger",
+    "price": 10.99,
+    "ingredients": [
+      "Beef Patty",
+      "Cheddar Cheese",
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Brioche Bun"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Fish and Chips",
+    "price": 15.99,
+    "ingredients": [
+      "Battered Cod",
+      "French Fries",
+      "Tartar Sauce",
+      "Lemon Wedge"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Caesar Salad",
+    "price": 9.99,
+    "ingredients": [
+      "Romaine Lettuce",
+      "Croutons",
+      "Parmesan Cheese",
+      "Caesar Dressing"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Chocolate Brownie",
+    "price": 5.99,
+    "ingredients": [
+      "Chocolate",
+      "Flour",
+      "Sugar",
+      "Eggs",
+      "Butter"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Iced Tea",
+    "price": 2.99,
+    "ingredients": [
+      "Tea",
+      "Ice",
+      "Optional: Lemon"
+    ],
+    "available": true,
+    "in_stock": true
+  },
+  {
+    "name": "Lemonade",
+    "price": 2.99,
+    "ingredients": [
+      "Lemon Juice",
+      "Water",
+      "Sugar",
+      "Ice"
+    ],
+    "available": false,
+    "in_stock": false
+  }
+]

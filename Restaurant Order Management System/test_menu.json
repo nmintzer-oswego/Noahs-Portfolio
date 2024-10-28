@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "name": "Margherita Pizza",
+      "price": 12.99,
+      "ingredients": [
+        "tomato sauce",
+        "mozzarella",
+        "basil"
+      ],
+      "available": true,
+      "in_stock": true
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 8.99,
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "bun",
+        "lettuce",
+        "tomato"
+      ],
+      "available": true,
+      "in_stock": true
+    },
+    {
+      "name": "Lemonade",
+      "price": 2.99,
+      "ingredients": [
+        "lemon juice",
+        "water",
+        "sugar"
+      ],
+      "available": true,
+      "in_stock": true
+    },
+    {
+      "name": "Vegetarian Pasta",
+      "price": 11.99,
+      "ingredients": [
+        "pasta",
+        "vegetables",
+        "tomato sauce"
+      ],
+      "available": true,
+      "in_stock": true
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 7.99,
+      "ingredients": [
+        "romaine lettuce",
+        "croutons",
+        "parmesan",
+        "caesar dressing"
+      ],
+      "available": true,
+      "in_stock": true
+    }
+  ]
+}
