@@ -1,0 +1,21 @@
+# Core dependencies
+pydantic>=2.4.2
+langchain>=0.0.330
+langchain-openai>=0.0.2.post1
+openai>=1.3.0
+
+# Testing dependencies
+pytest>=7.4.3
+pytest-cov>=4.1.0
+
+# Type checking
+typing-extensions>=4.8.0
+
+# Logging and error handling
+python-json-logger>=2.0.7
+
+# Optional dependencies for development
+black>=23.10.1  # Code formatting
+isort>=5.12.0   # Import sorting
+flake8>=6.1.0   # Code linting
+mypy>=1.6.1     # Static type checking
